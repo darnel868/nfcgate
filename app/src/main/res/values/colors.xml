@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="black" type="color">#000000</item>
+    <color name="ic_launcher_background">#FD9600</color>
+
+    <item name="status_green" type="color">#388e3c</item>
+    <item name="status_yellow" type="color">#f57f17</item>
+    <item name="status_red" type="color">#c62828</item>
+    <item name="status_idle" type="color">#CFD8DC</item>
+
+    <!-- Material 3 roles (light) -->
+    <color name="md_primary">#00677E</color>
+    <color name="md_on_primary">#FFFFFF</color>
+    <color name="md_primary_container">#B3EBF2</color>
+    <color name="md_on_primary_container">#001F28</color>
+    <color name="md_secondary">#00687B</color>
+    <color name="md_on_secondary">#FFFFFF</color>
+    <color name="md_background">#FBFCFE</color>
+    <color name="md_on_background">#191C1D</color>
+    <color name="md_surface">#FBFCFE</color>
+    <color name="md_on_surface">#191C1D</color>
+    <color name="md_surface_variant">#DBE4E6</color>
+    <color name="md_on_surface_variant">#3F484A</color>
+    <color name="md_outline">#6F797B</color>
+    <color name="md_error">#BA1A1A</color>
+    <color name="md_on_error">#FFFFFF</color>
+    <color name="md_divider">#D5DDDF</color>
+</resources>
